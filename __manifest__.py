@@ -11,9 +11,9 @@
     'images': [],
     'depends': [
         'sale',
-        'product',
     ],
     'data': [
+        'views/sale_view.xml',
     ],
     'demo': [],
     'qweb': [],
