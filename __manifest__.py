@@ -15,7 +15,6 @@
     ],
     'data': [
         'views/sale_view.xml',
-        'views/partner_view.xml',
     ],
     'demo': [],
     'qweb': [],

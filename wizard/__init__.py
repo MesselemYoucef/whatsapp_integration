@@ -1,1 +1,1 @@
-from odoo import models
+from . import create_whatsapp_message

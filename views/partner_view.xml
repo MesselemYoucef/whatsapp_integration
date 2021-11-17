@@ -6,9 +6,9 @@
         <field name="inherit_id" ref="base.view_partner_form"/>
         <field name="mode">primary</field>
         <field name="arch" type="xml">
-            <xpath expr="//button[@name='create_company']" position="after">-->
-                <button name="_action_clicked" type="object" string="Whatsapp" class="btn-primary"/>
-            </xpath>
+<!--            <xpath expr="//button[@name='create_company']" position="after">&ndash;&gt;-->
+<!--                <button name="_action_clicked" type="object" string="Whatsapp" class="btn-primary"/>-->
+<!--            </xpath>-->
 <!--            <button nam="action_cancel" position="after">-->
 <!--                <button name="action_url" type="object" string="Whatsapp" class="btn-primary"/>-->
 <!--            </button>-->
