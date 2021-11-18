@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_partner_message_wizard, access.partner.message.wizard, model_partner_message_wizard,, 1, 1, 1, 1
+
+
