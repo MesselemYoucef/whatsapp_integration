@@ -10,8 +10,8 @@
     'Licence': 'LGPL-3',
     'images': [],
     'depends': [
-        'sale',
         'base',
+        'sale',
     ],
     'data': [
         'views/sale_view.xml',

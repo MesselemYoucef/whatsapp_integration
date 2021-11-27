@@ -4,7 +4,6 @@
         <field name="name">sale.form.whatsapp.button.inherited.view</field>
         <field name="model">sale.order</field>
         <field name="inherit_id" ref="sale.view_order_form"/>
-        <field name="mode">primary</field>
         <field name="arch" type="xml">
             <xpath expr="//button[@name='action_cancel']" position="after">-->
                 <button name="action_url" type="object" string="Whatsapp" class="btn-primary"/>
